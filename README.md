@@ -5,11 +5,6 @@
 </p>
 
 ---
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=👋+Oi,+bem-vindo(a)!+(Português);Hello,+welcome!+(English);¡Hola,+bienvenid@!+(Español);Salut,+bienvenue!+(Français);Ciao,+benvenuto(a)!+(Italiano);Hallo,+willkommen!+(Deutsch);你好,+欢迎!+(Chinês);مرحبًا,+أهلاً+وسهلاً!+(Árabe);नमस्ते,+स्वागत+है!+(Hindi)" alt="Typing animation" /> 
-</p>
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding gif" width="400"/>
 </p>
@@ -95,8 +90,3 @@
 </p>
 
 ---
-
-<p align="center">
-  📍 <b>Profile Visitor Count</b><br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Lilianerefatti.Lilianerefatti&left_color=green&right_color=red" alt="visitors"/>
-</p>

@@ -64,6 +64,7 @@
 
 - 🔗 [Site da Comunidade Flask](https://github.com/LilianeRefatti/site-comunidade)  
 - 🔗 [Classificação de Sentimentos com Tweets](https://github.com/LilianeRefatti/sentimentos-twitter)
+- 🔗 [Sistema Bancário com Python](https://github.com/Lilianerefatti/sistema_bancario_python)
 
 ---
 

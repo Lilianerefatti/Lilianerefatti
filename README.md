@@ -158,3 +158,5 @@
   </a>
 </h2>
 
+---
+![Wave Animation](https://github.com/Lilianerefatti/Lilianerefatti/blob/main/onda.svg)

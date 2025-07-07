@@ -38,21 +38,22 @@
   <br>
   <strong> Habilidades </strong>
 </h3>
+<br>
 
 <div align="center">   
-  
+
 <strong>Linguagem de Programação</strong><br>
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br><strong>Manipulação e limpeza de dados</strong><br>
+<strong>Manipulação e limpeza de dados</strong><br>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<br><strong>Visualização de dados</strong><br>
+<strong>Visualização de dados</strong><br>
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge)
@@ -60,7 +61,7 @@
 ![Dash](https://img.shields.io/badge/Dash-003A70?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<br><strong>Ferramentas & IDEs</strong><br>
+<strong>Ferramentas & IDEs</strong><br>
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -72,7 +73,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
-<br><strong>Bancos de dados</strong><br>
+<strong>Bancos de dados</strong><br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -80,12 +81,12 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<br><strong>Versionamento</strong><br>
+<strong>Versionamento</strong><br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br><strong>Estou aprendendo</strong><br>
+<strong>Estou aprendendo</strong><br>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
@@ -150,13 +151,9 @@
   </a>
 </p>
 
----
-
 <h2 align="center">
   <a href="https://github.com/Lilianerefatti" aria-label="Ir para o topo do perfil de Lilianerefatti">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" width="60"/>
-  </a>
-</h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" width="30"/>
 
 ---
 ![Wave Animation](https://github.com/Lilianerefatti/Lilianerefatti/blob/main/onda.svg)

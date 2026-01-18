@@ -106,9 +106,10 @@
   </strong>
 </h3>
 
-- 🔗 [Site da Comunidade Flask](https://github.com/LilianeRefatti/site-comunidade)
-- 🔗 [Classificação de Sentimentos com Tweets](https://github.com/LilianeRefatti/sentimentos-twitter)
-- 🔗 [Sistema Bancário com Python](https://github.com/Lilianerefatti/sistema_bancario_python)
+- 🔗[Análise de Dados de Bancos no YouTube](https://github.com/Lilianerefatti/Analise_de_Dados_de_Bancos_no_YouTube)
+- 🔗[Dashboard de Vendas com PowerBI](https://github.com/Lilianerefatti/Dashboard_de_Vendas_com_Power_BI)
+- 🔗[Plataforma Web com Flask](https://github.com/Lilianerefatti/Plataforma_Web_com_Flask)
+- 🔗[Sistema Bancário em Python Orientado a Objetos](https://github.com/Lilianerefatti/Sistema_Bancario_em_Python_Orientado_a_Objetos)
 
 ---
 

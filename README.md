@@ -157,9 +157,6 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" width="30"/>
 
 ---
-![Wave Animation](https://github.com/Lilianerefatti/Lilianerefatti/blob/main/onda.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lilianerefatti/Lilianerefatti/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub contribution snake animation" src="https://github.com/Lilianerefatti/Lilianerefatti/blob/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="./onda.svg" width="100%" alt="Divisor em formato de onda">
+
 

@@ -106,6 +106,7 @@
   </strong>
 </h3>
 
+- 🔗[Análise de clientes com SQL e Power BI — Olist](https://github.com/Lilianerefatti/analise-clientes-olist-sql)
 - 🔗[Análise de Dados de Bancos no YouTube](https://github.com/Lilianerefatti/Analise_de_Dados_de_Bancos_no_YouTube)
 - 🔗[Dashboard de Vendas com PowerBI](https://github.com/Lilianerefatti/Dashboard_de_Vendas_com_Power_BI)
 - 🔗[Plataforma Web com Flask](https://github.com/Lilianerefatti/Plataforma_Web_com_Flask)

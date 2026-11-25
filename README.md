@@ -19,7 +19,6 @@
 </p>
 
 ---
-
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="50" height="50" /> 
   <br>
@@ -89,10 +88,12 @@
 <h3 align="center">
   <strong>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" width="30"/></span>
-    <span style="font-size:1.8em;">Projetos </strong>
+    <span style="font-size:2em;">Projetos </strong>
 </h3>
 
-## 📊 Projetos em Dados e Business Intelligence
+<div align="center">
+  <strong> 📊 Projetos em Dados e Business Intelligence </strong>
+</div>
 
 - 🔗 **[AdventureWorks — Análise Comercial no Power BI](https://github.com/Lilianerefatti/adventureworks-power-bi)**  
   Power BI, Power Query, DAX e modelagem dimensional aplicados à análise de vendas, rentabilidade, revendedores e metas por vendedor.
@@ -112,7 +113,9 @@
 - 🔗 **[Análise das Eleições de 2026](https://github.com/Lilianerefatti/analise-eleicoes-2026)**  
   Análise exploratória em Power BI utilizando dados públicos do TSE e indicadores municipais.
 
-## 🧩 Projetos complementares
+<div align="center">
+  <strong> 🧩 Projetos complementares </strong>
+</div>
 
 - 🔗 **[Fábrica Inteligente 3D](https://github.com/Lilianerefatti/fabrica-inteligente-3d)**  
   Simulação interativa de produção e logística desenvolvida com JavaScript e Three.js.

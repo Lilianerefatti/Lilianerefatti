@@ -5,7 +5,7 @@
 <h2 align="center">
   <strong>
     <span style="font-size:1.5em;">
-      Cientista de Dados | Python | SQL | Power BI | Estatística | Matemática
+      Analista de Dados | Python | SQL | Power BI | Estatística | Matemática
     </span>
   </strong>
 </h2>
@@ -26,75 +26,61 @@
   <strong> Sobre Mim </strong>
 </h3>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" width="30"/> Mestre em Matemática, com especialização em Ciência de Dados e Desenvolvimento de Sistemas com Python  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" width="30"/> Mestre Profissional em Ensino de  Matemática, com especialização em Ciência de Dados e Desenvolvimento de Sistemas com Python  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="30"/> Apaixonada por dados, tecnologia e educação  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" width="30"/> Atualmente aprendendo: Flask, APIs, Modelagem preditiva, Machine Learning, Redes Neurais, Clustering e Análise de Sentimentos  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Footprints.webp" width="30"/> Objetivo: Migrar da educação para a área de tecnologia e dados  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Footprints.webp" width="30"/> Objetivo: atuar com Análise de Dados e Business Intelligence, aplicando SQL, Power BI, Python e Estatística na construção de análises, dashboards e soluções confiáveis para apoiar decisões de negócio  
 
 ---
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="50"/> 
-  <br>
-  <strong> Habilidades </strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
+  <strong> Competências principais </strong>
 </h3>
-<br>
 
-<div align="center">   
+**Análise de dados e BI:**  
 
-<strong>Linguagem de Programação</strong><br>
-  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=000000) 
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Criação de Dashboards](https://img.shields.io/badge/Cria%C3%A7%C3%A3o_de_Dashboards-1F4E78?style=flat-square)
+![Indicadores e KPIs](https://img.shields.io/badge/Indicadores_e_KPIs-1F4E78?style=flat-square)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-1F4E78?style=flat-square)
+
+**Dados e programação:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<strong>Manipulação e limpeza de dados</strong><br>
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Análise Exploratória](https://img.shields.io/badge/An%C3%A1lise_Explorat%C3%B3ria-3776AB?style=flat-square)
+![Limpeza de Dados](https://img.shields.io/badge/Limpeza_de_Dados-3776AB?style=flat-square)
+![Tratamento de Dados](https://img.shields.io/badge/Tratamento_de_Dados-3776AB?style=flat-square)
+![Validação de Dados](https://img.shields.io/badge/Valida%C3%A7%C3%A3o_de_Dados-3776AB?style=flat-square)
+![Data Quality](https://img.shields.io/badge/Data_Quality-3776AB?style=flat-square)
 
-<strong>Visualização de dados</strong><br>
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-003A70?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-<strong>Ferramentas & IDEs</strong><br>
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-
-<strong>Bancos de dados</strong><br>
-
+**Modelagem e integração:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Modelagem Dimensional](https://img.shields.io/badge/Modelagem_Dimensional-336791?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-336791?style=flat-square)
+![Integração de Dados](https://img.shields.io/badge/Integra%C3%A7%C3%A3o_de_Dados-336791?style=flat-square)
+![Consumo de APIs](https://img.shields.io/badge/Consumo_de_APIs-336791?style=flat-square)
 
-<strong>Versionamento</strong><br>
+**Ferramentas:** 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<strong>Estou aprendendo</strong><br>
+**📚 Em desenvolvimento:** 
 
+![Machine Learning com Scikit-learn](https://img.shields.io/badge/Machine_Learning_com_Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Classificação](https://img.shields.io/badge/Classifica%C3%A7%C3%A3o-F7931E?style=flat-square)
+![Regressão](https://img.shields.io/badge/Regress%C3%A3o-F7931E?style=flat-square)
+![Clustering](https://img.shields.io/badge/Clustering-F7931E?style=flat-square)
+![Avaliação de Modelos](https://img.shields.io/badge/Avalia%C3%A7%C3%A3o_de_Modelos-F7931E?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-0073AA?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
 
@@ -102,15 +88,40 @@
 
 <h3 align="center">
   <strong>
-    <span style="font-size:1.8em;">Projetos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" width="30"/></span>
-  </strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" width="30"/></span>
+    <span style="font-size:1.8em;">Projetos </strong>
 </h3>
 
-- 🔗[Análise de clientes com SQL e Power BI — Olist](https://github.com/Lilianerefatti/analise-clientes-olist-sql)
-- 🔗[Análise de Dados de Bancos no YouTube](https://github.com/Lilianerefatti/Analise_de_Dados_de_Bancos_no_YouTube)
-- 🔗[Dashboard de Vendas com PowerBI](https://github.com/Lilianerefatti/Dashboard_de_Vendas_com_Power_BI)
-- 🔗[Plataforma Web com Flask](https://github.com/Lilianerefatti/Plataforma_Web_com_Flask)
-- 🔗[Sistema Bancário em Python Orientado a Objetos](https://github.com/Lilianerefatti/Sistema_Bancario_em_Python_Orientado_a_Objetos)
+## 📊 Projetos em Dados e Business Intelligence
+
+- 🔗 **[AdventureWorks — Análise Comercial no Power BI](https://github.com/Lilianerefatti/adventureworks-power-bi)**  
+  Power BI, Power Query, DAX e modelagem dimensional aplicados à análise de vendas, rentabilidade, revendedores e metas por vendedor.
+
+- 🔗 **[Análise e Segmentação de Clientes — Olist](https://github.com/Lilianerefatti/analise-clientes-olist-sql)**  
+  PostgreSQL, SQL, Power BI e segmentação RFM aplicados à análise de 93.357 clientes, recompra, retenção e comportamento de compra.
+
+- 🔗 **[Pipeline ETL para Processamento de Dados](https://github.com/Lilianerefatti/etl-pipeline-python)**  
+  Pipeline desenvolvido com Python e Pandas para extração, tratamento, padronização e consolidação de dados.
+
+- 🔗 **[Automação de Relatórios de Vendas](https://github.com/Lilianerefatti/Automacao_de_Processo)**  
+  Automação com Python, Pandas, OpenPyXL e Excel para consolidação, formatação e geração de relatórios.
+
+- 🔗 **[Análise de Canais de Bancos no YouTube](https://github.com/Lilianerefatti/Analise_de_Dados_de_Bancos_no_YouTube)**  
+  Extração de dados pela API do YouTube, tratamento com Python e Pandas e criação de dashboard no Power BI.
+
+- 🔗 **[Análise das Eleições de 2026](https://github.com/Lilianerefatti/analise-eleicoes-2026)**  
+  Análise exploratória em Power BI utilizando dados públicos do TSE e indicadores municipais.
+
+## 🧩 Projetos complementares
+
+- 🔗 **[Fábrica Inteligente 3D](https://github.com/Lilianerefatti/fabrica-inteligente-3d)**  
+  Simulação interativa de produção e logística desenvolvida com JavaScript e Three.js.
+
+- 🔗 **[Plataforma Web com Flask](https://github.com/Lilianerefatti/Plataforma_Web_com_Flask)**  
+  Aplicação web desenvolvida com Python, Flask e HTML.
+
+- 🔗 **[Sistema Bancário em Python Orientado a Objetos](https://github.com/Lilianerefatti/Sistema_Bancario_em_Python_Orientado_a_Objetos)**  
+  Aplicação desenvolvida para praticar orientação a objetos e regras de negócio em Python.
 
 ---
 
